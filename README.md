@@ -13,7 +13,7 @@ As perguntas são classificadas por um sistema de **níveis tipo semáforo**, qu
 
 ## 🧠 Conceito
 
-O app foi criado para tornar conversas mais significativas — seja entre **amigos, ficantes ou casais**.  
+O app foi criado para tornar conversas mais significativas, seja entre **amigos, ficantes ou casais**.  
 A inteligência do sistema permite **classificar automaticamente o nível da pergunta** com base em **análise de sentimento**, utilizando o modelo de linguagem **BERT Multilíngue**.
 
 ---
